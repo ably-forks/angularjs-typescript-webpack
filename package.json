@@ -48,7 +48,7 @@
   "dependencies": {
     "@uirouter/angularjs": "1.0.20",
     "ably": "^1.0.18",
-    "angular": "^1.7.2",
+    "angular": "^1.8.0",
     "angular-ts-decorators": "^3.7.5",
     "eventemitter3": "3.1.0"
   },
